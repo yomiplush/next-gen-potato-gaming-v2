@@ -123,7 +123,9 @@ WINE_FULLSCREEN_FSR_MODE=performance DXVK_CONFIG="dxgi.maxDeviceMemory=4096" DXV
 ```
 
 
-## Technical Explanations Why Proton-CachyOS-SLR? CachyOS-maintained fork of Proton Experimental.
+## Technical Explanations
+Why Proton-CachyOS-SLR? CachyOS-maintained fork of Proton Experimental.
+
 Includes curated patches from Proton-GE, Proton-EM, and CachyOS-specific improvements.
 Excellent upscaler injection system (automatically replaces old DLLs with newer versions).
 Better Wayland support, video playback fixes, and low-latency DXVK options.
