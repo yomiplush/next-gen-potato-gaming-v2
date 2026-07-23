@@ -1,4 +1,4 @@
-# next-gen-potato-gamin-v2
+# next-gen-potato-gaming-v2
 CachyOS-based Next-Gen Potato Gaming Setup Guide
 
 ![Install CachyOS](https://img-backend-potato.pages.dev/myrigs.png)
@@ -151,12 +151,12 @@ The -slr variant runs inside Valve’s Steam Linux Runtime container for maximum
 - **Gamescope**: Lightweight Wayland compositor. Excellent for integer scaling, FSR/ NIS upscaling inside the compositor, frame rate limiting, and HDR.
 - **Mesa + RADV (AMD)**: Open-source Vulkan driver. Very fast and feature-rich. `amdvlk` is AMD's official closed-source alternative (sometimes more stable in specific titles).
 - **NVIDIA proprietary drivers**: Provide the best performance and feature set on Linux for NVIDIA cards. `nvidia-utils` includes the OpenGL/Vulkan implementation.
-- **PipeWire + OpenAL**: Modern audio stack with low latency and good spatial audio support (important for VR).
+- **PipeWire + OpenAL**: Modern audio stack with low latency and good spatial audio support
 - **VKD3D**: DirectX 12 &rarr; Vulkan translation layer (required for modern DX12 titles).
 
 ## Performance Strategy
 
-The launch options deliberately use a very low base resolution (`640x360`) + aggressive FSR 4 / FSR upscaling. This is the classic "Potato" approach: render cheaply internally, then upscale intelligently for smooth high-refresh-rate VR gameplay.
+The launch options deliberately use a very low base resolution (`640x360`) + aggressive FSR 4 / FSR upscaling. This is the classic "Potato" approach: render cheaply internally, then upscale intelligently for smooth high-refresh-rate Potato gameplay.
 
 # Happy Potato Gaming!
 
