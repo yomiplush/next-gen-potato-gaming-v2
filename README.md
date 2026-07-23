@@ -27,13 +27,10 @@ Memory: 7142MiB / 29793MiB <br>
 
 ## * [60s Gameplay Collection (5 Titles)
 * **Clips:** [© Blizzard Entertaiment / Diablo IV](https://www.dailymotion.com/video/xardf1e)
-* * **Clips:** [© FROMSOFTWARE / Dark Souls III](https://www.dailymotion.com/video/x9yiu9y)
-  * * **Clips:** [© CAPCOM / Resident Evil 4](https://www.dailymotion.com/video/x9yiumi)
-    * * **Clips:** [© KOJIMA PRODUCTION / Death Strandings Director's Cut](https://www.dailymotion.com/video/x9yiwwa)
-      * * **Clips:** [© Blizzard entertainment / Diablo IV](https://www.dailymotion.com/video/x9yix0q)
-* **12 mini Video:** [Off-screen Footage (Direct Capture)](https://www.dailymotion.com/video/x9yisbs) 
-  * *Filmed on a smartphone to prove no external GPUs or tricks were used.*
-
+* * **Clips:** [© FROMSOFTWARE / Eldenring](https://www.dailymotion.com/video/xardj8a)
+  * * **Clips:** [© KONAMI / Metal Gear Solid V The Phantom Pain](https://www.dailymotion.com/video/xardktm)
+    * * **Clips:** [© KOJIMA PRODUCTION / Death Strandings 2](https://www.dailymotion.com/video/xardlki)
+      * * **Clips:** [© ArtPlay (505 Games) / BloodStained Ritual of the Night](https://www.dailymotion.com/video/xardm9e)
 
 ## Prerequisites
 
