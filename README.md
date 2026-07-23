@@ -1,4 +1,4 @@
-# next-gen-potato-pcvr-gaming-v2
+# next-gen-potato-gaming-v2
 CachyOS-based Next-Gen Potato Gaming Setup Guide
 
 ![Install CachyOS](https://img-backend-potato.pages.dev/myrigs.png)
