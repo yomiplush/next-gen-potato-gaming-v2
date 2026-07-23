@@ -25,7 +25,7 @@ GPU: AMD ATI Radeon Vega Series / Rad <br>
 Memory: 7142MiB / 29793MiB <br>
 <br>
 
-## * [60s Gameplay Collection (5 Titles)
+## 60s Gameplay Collection (5 Titles)
 * **Clips:** [© Blizzard Entertaiment / Diablo IV](https://www.dailymotion.com/video/xardf1e)
 * * **Clips:** [© FROMSOFTWARE / Eldenring](https://www.dailymotion.com/video/xardj8a)
   * * **Clips:** [© KONAMI / Metal Gear Solid V The Phantom Pain](https://www.dailymotion.com/video/xardktm)
