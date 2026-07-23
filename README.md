@@ -58,6 +58,8 @@ sudo pacman -S steam
 2. Install Proton-CachyOS-SLR (Critical)This is the key package for FSR4 support. Install it first.
 ```bash
 sudo pacman -S proton-cachyos-slr
+mkdir -p ~/.local/share/Steam/compatibilitytools.d/
+ln -s /usr/share/steam/compatibilitytools.d/proton-cachyos-slr ~/.local/share/Steam/compatibilitytools.d/proton-cachyos-slr
 ```
 
 3. Install DependenciesCommon Required Packages
