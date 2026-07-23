@@ -122,6 +122,13 @@ mangohud gamemoderun PROTON_FSR4_RDNA3_UPGRADE=1 WINE_FULLSCREEN_FSR=1 WINE_FULL
 WINE_FULLSCREEN_FSR_MODE=performance DXVK_CONFIG="dxgi.maxDeviceMemory=4096" DXVK_ASYNC=1 PROTON_SET_GAME_RESOLUTION=640x360 %command%
 ```
 
+## Improved Trick1
+1. Set "Performance" when you going to games (improved Framerate stuff)
+2. Set "1280x720" when you going to games
+3. then, don't setup over "Scale 100%" keep 100% good.
+
+![Power Mode](https://img-backend-potato.pages.dev/power.png)
+![Resolution](https://img-backend-potato.pages.dev/resolution.png)
 
 ## Technical Explanations
 Why Proton-CachyOS-SLR? CachyOS-maintained fork of Proton Experimental.
