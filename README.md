@@ -1,7 +1,7 @@
 # next-gen-potato-pcvr-gaming-v2
 CachyOS-based Next-Gen Potato Gaming Setup Guide
 
-![Install CachyOSl](https://img-backend-potato.pages.dev/myrigs.png)
+![Install CachyOS](https://img-backend-potato.pages.dev/myrigs.png)
 
 ## Overview
 
@@ -9,6 +9,19 @@ This guide helps you set up a high-performance Potato gaming environment <br>
 on **CachyOS** using **Proton-CachyOS-SLR** with **FSR4** support. <br>
 <br>
 **Single-boot** is strongly recommended.<br>
+
+## Proof of Concept
+![Diablo IV on No GPU Thinkpad](https://img-backend-potato.pages.dev/proof.png)
+
+### * [60s Gameplay Collection (5 Titles)
+* **Clips:** [© Blizzard Entertaiment / Diablo IV](https://www.dailymotion.com/video/xardf1e)
+* * **Clips:** [© FROMSOFTWARE / Dark Souls III](https://www.dailymotion.com/video/x9yiu9y)
+  * * **Clips:** [© CAPCOM / Resident Evil 4](https://www.dailymotion.com/video/x9yiumi)
+    * * **Clips:** [© KOJIMA PRODUCTION / Death Strandings Director's Cut](https://www.dailymotion.com/video/x9yiwwa)
+      * * **Clips:** [© Blizzard entertainment / Diablo IV](https://www.dailymotion.com/video/x9yix0q)
+* **12 mini Video:** [Off-screen Footage (Direct Capture)](https://www.dailymotion.com/video/x9yisbs) 
+  * *Filmed on a smartphone to prove no external GPUs or tricks were used.*
+
 
 ## Prerequisites
 
