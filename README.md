@@ -20,7 +20,7 @@ Host: LENOVO 20UGS2Q500 <br>
 Kernel: 7.1.4-1-cachyos-bore-lto <br>
 Shell: fish 4.8.1 <br>
 DE: GNOME 50.3 (Wayland) <br>
-CPU: AMD Ryzen 5 PRO 4650U with Radeo <br>
+CPU: AMD Ryzen 5 PRO 4650U with Radeon <br>
 GPU: AMD ATI Radeon Vega Series / Rad <br>
 Memory: 7142MiB / 29793MiB <br>
 <br>
@@ -121,7 +121,7 @@ mangohud gamemoderun PROTON_FSR4_RDNA3_UPGRADE=1 WINE_FULLSCREEN_FSR=1 WINE_FULL
 WINE_FULLSCREEN_FSR_MODE=performance DXVK_CONFIG="dxgi.maxDeviceMemory=4096" DXVK_ASYNC=1 PROTON_SET_GAME_RESOLUTION=640x360 %command%
 ```
 
-## 💎Improved Trick1
+## 💎Improved Trick
 1. Set "Performance" when you going to games (improved Framerate stuff)
 2. Set "1280x720" when you going to games
 3. then, don't setup over "Scale 100%" keep 100% good.
