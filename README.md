@@ -13,6 +13,18 @@ on **CachyOS** using **Proton-CachyOS-SLR** with **FSR4** support. <br>
 ## Proof of Concept
 ![Diablo IV on No GPU Thinkpad](https://img-backend-potato.pages.dev/proof.png)
 
+-- My Rigs (Thinkpad X13 Gen1) 
+
+OS: CachyOS x86_64 
+Host: LENOVO 20UGS2Q500 
+Kernel: 7.1.4-1-cachyos-bore-lto 
+Shell: fish 4.8.1 
+DE: GNOME 50.3 (Wayland) 
+CPU: AMD Ryzen 5 PRO 4650U with Radeo 
+GPU: AMD ATI Radeon Vega Series / Rad 
+Memory: 7142MiB / 29793MiB 
+
+
 ### * [60s Gameplay Collection (5 Titles)
 * **Clips:** [© Blizzard Entertaiment / Diablo IV](https://www.dailymotion.com/video/xardf1e)
 * * **Clips:** [© FROMSOFTWARE / Dark Souls III](https://www.dailymotion.com/video/x9yiu9y)
